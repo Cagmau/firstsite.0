@@ -6,7 +6,7 @@
 <font color="7C5A66"><p align="center">на першому курci</p>
 <font color="7C5A66"><p align="justify"> спеціальності 072 «Фінанси, банківська справа, страхування та фондовий ринок»</p>
 
-<hr> width="100%"size="7"align="center"</hr>
+<hr width="100%"size="7"align="center"> <br>
 
 <font color="red" face="Arial"><i>Моє хобі:</i><br>
 
