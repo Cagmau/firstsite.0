@@ -8,11 +8,11 @@
 
 <hr width="100%"size="7"align="center">
 
- <font color="red"face="Arial"><i>Моє хобі:</i><br>
+<font color="red" face="Arial"><i>Моє хобі:</i><br>
 
-<font color="blue"face="Arial"><u> захоплююся живописом і малюванням</u><br>
+<font color="blue" face="Arial"><u> захоплююся живописом і малюванням</u><br>
 
-<font color="green"face="Arial"><b>а також люблю фотографувати </b><br>
+<font color="green" face="Arial"><b>а також люблю фотографувати </b><br>
 
 <center><br>
 
